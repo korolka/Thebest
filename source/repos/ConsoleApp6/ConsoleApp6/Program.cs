@@ -6,7 +6,7 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("You are World!");
+            Console.WriteLine("You are the past World!");
         }
     }
 }
